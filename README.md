@@ -1,5 +1,7 @@
 # BlackJack Vite
 
+Primer projecto realizado mediante curso Javascript dev/talles
+
 Pasos para ejecutar proyecto:
 
 1. Clonar repositorio
