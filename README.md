@@ -1,6 +1,6 @@
 # BlackJack Vite
 
-Primer projecto realizado mediante curso Javascript dev/talles
+Primer proyecto realizado mediante curso Javascript dev/talles
 
 Pasos para ejecutar proyecto:
 
